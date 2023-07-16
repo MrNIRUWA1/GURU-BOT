@@ -49,8 +49,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'UNC xNIRUWA'
 global.premium = 'true'
-global.packname = 'NIRUWA' 
-global.author = '@Niruwa' 
+global.packname = 'Pakaya' 
+global.author = '@Pakaya' 
 global.igfg = '▢ Follow ' 
 global.dygp = 'https://chat.whatsapp'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
